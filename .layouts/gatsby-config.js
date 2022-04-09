@@ -7,7 +7,7 @@ const siteMetadata = {
     "Personal wiki, backing storage.",
   twitterName: "DH_haein",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://wiki.haein.info",
+  siteUrl: "https://haein.info/wiki",
 };
 module.exports = {
   siteMetadata,
@@ -98,10 +98,10 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-google-gtag`,
-      options: {
-        // You can add multiple tracking ids and a pageview event will be fired for all of them.
-        trackingIds: ["G-76F1LR70FY"],
-      },
+      // options: {
+      //   // You can add multiple tracking ids and a pageview event will be fired for all of them.
+      //   trackingIds: ["G-76F1LR70FY"],
+      // },
     },
   ],
 };
