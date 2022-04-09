@@ -1,11 +1,8 @@
 ![image](https://user-images.githubusercontent.com/61646760/162568690-6e9aab55-bbce-4985-be86-e4f4c84f8e79.png)
 # 海印舍 藏經板殿(Haeinsa Janggyeong Panjeon)
+<img src="https://user-images.githubusercontent.com/61646760/162569133-e6613017-8be7-412c-8c7e-1729ea8bc140.png" />
+
 이곳은 DHaein의 개인 위키입니다.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/61646760/162569133-e6613017-8be7-412c-8c7e-1729ea8bc140.png">
-</div>
-
 - <strong>장경판전(藏經板殿)</strong>이라는 명칭은 제 홈페이지 이름인 海印舍(Haeinsa)에서 유비 추리해 온 것입니다.
 - 저에 대해 더 알고 싶으시다면, [제 홈페이지](https://haein.info)를 방문해 주세요.
 
