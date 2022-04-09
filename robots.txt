@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki.haein.info/sitemap/sitemap-index.xml
+Host: https://wiki.haein.info
