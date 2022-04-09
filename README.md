@@ -1,12 +1,11 @@
 # 대문
-<img src="https://user-images.githubusercontent.com/61646760/162569133-e6613017-8be7-412c-8c7e-1729ea8bc140.png" style="margin-left: auto; margin-right: auto; display: block;" />
+<img src="https://user-images.githubusercontent.com/61646760/162584534-e6cb8af0-6d1d-47f4-bdfb-d9fb9bda3709.jpg" style="margin-left: auto; margin-right: auto; display: block;" />
 
 ## 위키 소개
 <strong>해인사 장경판전(海印舍 藏經板殿)</strong>에 오신 것을 환영합니다.
 
 - 이곳은 DHaein의 개인 위키입니다.
-- <strong>장경판전(藏經板殿)</strong>이라는 명칭은 제 홈페이지 이름인 해인사(海印舍)에서 유비 추리해 온 것입니다.
-  - 海印寺가 아니라, 海印舍임에 유의하세요.
+- 장경판전(藏經板殿)이라는 명칭은 제 홈페이지 이름인 해인사(海印舍)에서 유비 추리해 온 것입니다. (海印寺가 아니라, <strong>海印舍</strong>임에 유의하세요.)
 - 저에 대해 더 자세히 알고 싶으시다면, [제 홈페이지](https://haein.info)를 방문해 주세요.
 
 ![image](https://user-images.githubusercontent.com/61646760/162568690-6e9aab55-bbce-4985-be86-e4f4c84f8e79.png)

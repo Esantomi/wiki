@@ -1,12 +1,12 @@
 const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
-  title: "海印舍 藏經板殿(Haeinsa Janggyeong Panjeon)",
-  shortName: "藏經板殿",
+  title: "海印舍 藏經板殿(해인사 장경판전)",
+  shortName: "장경판전",
   description:
     "海印舍 藏經板殿(Haeinsa Janggyeong Panjeon)",
   twitterName: "DH_haein",
-  imageUrl: "/graph-visualisation.jpg",
+  imageUrl: "/tablet.jpg",
   siteUrl: "https://wiki.haein.info",
 };
 module.exports = {
