@@ -1,13 +1,13 @@
 const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
-  title: "Temple of Haein : Janggyeong Panjeon",
-  // shortName: "Wiki",
+  title: "海印舍 藏經板殿(Haeinsa Janggyeong Panjeon)",
+  shortName: "藏經板殿",
   description:
-    "Personal wiki, backing storage.",
+    "海印舍 藏經板殿(Haeinsa Janggyeong Panjeon)",
   twitterName: "DH_haein",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://haein.info/wiki/",
+  siteUrl: "https://wiki.haein.info",
 };
 module.exports = {
   siteMetadata,
@@ -36,22 +36,17 @@ module.exports = {
             title: "Latest",
             url: "/latest/",
           },
-
           {
-            title: "Twitter",
-            url: "https://twitter.com/DH_haein",
-          },
-          {
-            title: "Home",
+            title: "About",
             url: "https://haein.info/",
           },
           {
-            title: "About",
+            title: "Links",
             items: [
-              // {
-              //   title: "Newsletter",
-              //   url: "https://digests.owenyoung.com/",
-              // },
+              {
+                title: "Twitter",
+                url: "https://twitter.com/DH_haein",
+              },
               {
                 title: "Github",
                 url: "https://github.com/Esantomi",
@@ -88,12 +83,12 @@ module.exports = {
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },
-    {
-      resolve: `gatsby-plugin-google-gtag`,
-      // options: {
-      //   // You can add multiple tracking ids and a pageview event will be fired for all of them.
-      //   trackingIds: ["G-76F1LR70FY"],
-      // },
-    },
+    // {
+    //   resolve: `gatsby-plugin-google-gtag`,
+    //   options: {
+    //     // You can add multiple tracking ids and a pageview event will be fired for all of them.
+    //     trackingIds: ["G-76F1LR70FY"],
+    //   },
+    // },
   ],
 };
