@@ -2,12 +2,12 @@ const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
   title: "Temple of Haein : Janggyeong Panjeon",
-  shortName: "Wiki",
+  // shortName: "Wiki",
   description:
     "Personal wiki, backing storage.",
   twitterName: "DH_haein",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://haein.info/wiki",
+  siteUrl: "https://haein.info/wiki/",
 };
 module.exports = {
   siteMetadata,
@@ -51,14 +51,6 @@ module.exports = {
               // {
               //   title: "Newsletter",
               //   url: "https://digests.owenyoung.com/",
-              // },
-              // {
-              //   title: "Now",
-              //   url: "https://www.owenyoung.com/now/",
-              // },
-              // {
-              //   title: "About",
-              //   url: "https://www.owenyoung.com/about/",
               // },
               {
                 title: "Github",
