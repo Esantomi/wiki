@@ -1,5 +1,5 @@
 # 대문
-<img src="https://user-images.githubusercontent.com/61646760/162681358-d13a3853-34f9-4ec3-b6da-c03672e1fc8d.jpg" style="margin-left: auto; margin-right: auto; display: block;" />
+<img src="https://user-images.githubusercontent.com/61646760/162683248-28dd93c5-e9d3-4922-859e-ff8b2b0d5633.jpg" style="margin-left: auto; margin-right: auto; display: block;" />
 
 ## 위키 소개
 <strong>해인사 장경판전(海印舍 藏經板殿)</strong>에 오신 것을 환영합니다.
