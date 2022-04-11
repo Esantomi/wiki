@@ -2,7 +2,7 @@
 title: 평온을 비는 기도
 tags:
   - Thought
-  - 신앙
+  - 영성
   - 기독교
   - 기도문
 ---
@@ -12,7 +12,9 @@ tags:
 
 ## 전문
 > God, give us grace to accept with serenity the things that cannot be changed,
+> 
 > courage to change the things that should be changed,
+> 
 > and the wisdom to distinguish the one from the other.
 
 ## 해석
@@ -20,7 +22,9 @@ tags:
 
 ## 변형
 > God grant me the serenity to accept the things I cannot change,
+> 
 > courage to change the things I can,
+> 
 > and the wisdom to know the difference.
 
 ## References

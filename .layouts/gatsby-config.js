@@ -37,7 +37,7 @@ module.exports = {
             url: "/latest/",
           },
           {
-            title: "About",
+            title: "Home",
             url: "https://haein.info/",
           },
           {
