@@ -1,4 +1,4 @@
-# 대문
+# 장경판전 보안문
 <img src="https://user-images.githubusercontent.com/61646760/162683248-28dd93c5-e9d3-4922-859e-ff8b2b0d5633.jpg" style="margin-left: auto; margin-right: auto; display: block;" />
 
 ## 위키 소개
@@ -6,7 +6,10 @@
 
 - [이곳](https://wiki.haein.info/)은 DHaein의 개인 위키입니다.
 - 장경판전(藏經板殿)이라는 명칭은 제 홈페이지 이름인 해인사(海印舍)에서 유비 추리해 온 것입니다.
+- 장경판전에 입장하기 위해서는 보안문(普眼門)을 거쳐야 하므로 이곳의 이름을 보안문으로 하였습니다.
 - 저에 대해 더 자세히 알고 싶으시다면, [제 홈페이지](https://haein.info)를 방문해 주세요.
+
+* * *
 
 ![image](https://user-images.githubusercontent.com/61646760/162568690-6e9aab55-bbce-4985-be86-e4f4c84f8e79.png)
 

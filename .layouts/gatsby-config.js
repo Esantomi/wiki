@@ -1,7 +1,7 @@
 const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
-  title: "海印舍 藏經板殿",
+  title: "해인사 장경판전(海印舍 藏經板殿)",
   shortName: "장경판전",
   description:
     "海印舍 藏經板殿(Haeinsa Janggyeong Panjeon)",
@@ -39,6 +39,10 @@ module.exports = {
           {
             title: "Home",
             url: "https://haein.info/",
+          },
+          {
+            title: "Med",
+            url: "https://med.haein.info/",
           },
           {
             title: "Links",
