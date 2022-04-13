@@ -7,34 +7,28 @@ tags:
   - 딥러닝
 ---
 
-# 인문지식처리와통계
 ### 목차
-- [인문지식처리와통계](#인문지식처리와통계)
-    - [목차](#목차)
-    - [강의 계획서](#강의-계획서)
-    - [교수님 소스코드 보관 공간](#교수님-소스코드-보관-공간)
-    - [논문 작성 순서](#논문-작성-순서)
-  - [1주차. 언어분석개론](#1주차-언어분석개론)
-    - [인공지능](#인공지능)
-  - [2주차. Colab과 Python](#2주차-colab과-python)
-    - [Colab](#colab)
-    - [Python](#python)
-    - [과제 제출](#과제-제출)
-  - [2-3주차. 형태소 분석 개론](#2-3주차-형태소-분석-개론)
-    - [언어 분석 패키지](#언어-분석-패키지)
-    - [언어 분석](#언어-분석)
-    - [시각화](#시각화)
-    - [해석](#해석)
-    - [과제](#과제)
-  - [4주차. N-gram](#4주차-n-gram)
-    - [N-gram 실습](#n-gram-실습)
-  - [4주차. Word2Vec](#4주차-word2vec)
-    - [Word2Vec 실습](#word2vec-실습)
-    - [과제](#과제-1)
-  - [5주차. 사회 네트워크 분석(SNA)](#5주차-사회-네트워크-분석sna)
-    - [Gephi](#gephi)
-    - [기타 툴](#기타-툴)
-    - [과제](#과제-2)
+- [1주차. 언어분석개론](#1주차-언어분석개론)
+  - [인공지능](#인공지능)
+- [2주차. Colab과 Python](#2주차-colab과-python)
+  - [Colab](#colab)
+  - [Python](#python)
+  - [과제 제출](#과제-제출)
+- [2-3주차. 형태소 분석 개론](#2-3주차-형태소-분석-개론)
+  - [언어 분석 패키지](#언어-분석-패키지)
+  - [언어 분석](#언어-분석)
+  - [시각화](#시각화)
+  - [해석](#해석)
+  - [과제](#과제)
+- [4주차. N-gram](#4주차-n-gram)
+  - [N-gram 실습](#n-gram-실습)
+- [4주차. Word2Vec](#4주차-word2vec)
+  - [Word2Vec 실습](#word2vec-실습)
+  - [과제](#과제-1)
+- [5주차. 사회 네트워크 분석(SNA)](#5주차-사회-네트워크-분석sna)
+  - [Gephi](#gephi)
+  - [기타 툴](#기타-툴)
+  - [과제](#과제-2)
 ### 강의 계획서
 ![image](https://user-images.githubusercontent.com/61646760/157179687-1790f976-9cf4-4b0c-800f-6a986b615d5a.png)
 ### [교수님 소스코드 보관 공간](https://drive.google.com/drive/u/0/folders/1c5tK8XuS1GW28E3JjD1JM_j4W23IbYuN)
@@ -247,7 +241,6 @@ tags:
   #@title 한국어 형태소 분석 - konlpy(kkma)
   한국어문장 = '\uB098\uB294 \uC544\uBA54\uB9AC\uCE74\uB178\uAC00 \uC88B\uC544.'  #@param {type: "string"}
 
-
   # konlpy 설치하기 ## https://data1000.tistory.com/33
   !pip3 install jpype1==0.7.0
   !pip3 install konlpy
@@ -279,7 +272,6 @@ tags:
   ```
   #@title 한국어 형태소 분석 - konlpy(okt=twitter)
   한국어문장 = '\uB098\uB294 \uC544\uBA54\uB9AC\uCE74\uB178\uAC00 \uC88B\uC544.'  #@param {type: "string"}
-
 
   # konlpy 설치하기 ## https://data1000.tistory.com/33
   !pip3 install jpype1==0.7.0
