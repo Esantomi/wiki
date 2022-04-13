@@ -29,6 +29,8 @@ tags:
   - [Gephi](#gephi)
   - [기타 툴](#기타-툴)
   - [과제](#과제-2)
+- [6주차. 딥러닝 분석 개론](#6주차-딥러닝-분석-개론)
+  - [과제](#과제-3)
 ### 강의 계획서
 ![image](https://user-images.githubusercontent.com/61646760/157179687-1790f976-9cf4-4b0c-800f-6a986b615d5a.png)
 ### [교수님 소스코드 보관 공간](https://drive.google.com/drive/u/0/folders/1c5tK8XuS1GW28E3JjD1JM_j4W23IbYuN)
@@ -463,10 +465,7 @@ tags:
       - **jre(Java Runtime Environment)**
         - java를 동작시키기 위한 실행 환경
   - 이후 새로운 version이 출시될 예정
-<details>
-<summary>Gephi 사용법</summary>
-
-- 사용법
+- Gephi 사용법
   - rawdata 구축
     - 수업 때는 보통 구글 설문으로 '본인 이름', '친한 사람 이름1', '친한 사람 이름2' 항목 제작하여 배포  
       ![image](https://user-images.githubusercontent.com/61646760/161704191-dcdc44de-3a39-4bf5-b46f-73cdb72fc636.png)
@@ -491,8 +490,6 @@ tags:
         - Partition - Modularity Class : 모듈별 색 구분 설정
   - Preview
     - 출판 논문에 싣을 용도의 고해상도 이미지 추출 가능
-</details>
-
 ### 기타 툴
 - UciNet : 무료, 전통, 대용량 데이터 처리에 용이, 낮은 편의성
 - NetMiner : 유료, 한국어 지원, 기능 빵빵
@@ -500,3 +497,53 @@ tags:
 - NodeXL : 무료, 간단한 분석에 유용
 ### 과제
 - [X] ppt 보고 Gephi 실습해 보기
+
+## 6주차. 딥러닝 분석 개론
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)  
+  ![image](https://user-images.githubusercontent.com/61646760/162903179-56907402-6490-4707-9452-d3ee1b02c8f2.png)
+- Original data
+  - Training data
+    - Training data : 학습용
+    - Validation data : 모의고사
+  - Testing data : 검증용
+- 활성화 함수(activation function)
+- 옵티마이저(optimizer)  
+  ![image](https://user-images.githubusercontent.com/61646760/162904778-adb3a8ee-3bf9-4e41-a914-7ec8a3af2f0a.png)
+- 미니 배치(mini-batch) : 데이터 셋을 batch 사이즈 크기로 쪼개서 학습  
+  ![image](https://user-images.githubusercontent.com/61646760/162904983-e27e4ebc-7f3f-4f2f-a76f-fa73b43dd8fd.png)
+  - 1 Epoch : 모든 데이터 셋을 한 번 학습
+  - 1 iteration : batch 하나를 1회 학습
+- NAS(Neural Architecture Search)
+  - 알아서 세팅
+- CNN(Convolutional Neural Networks)
+  - 이미지 처리
+  - 풀링(pooling)
+  - 스트라이드(stride)
+  - 패딩(padding) : 이미지 외곽에 임의의 값을 넣어서 계산할 수 있게 해 주는 과정
+  - 플래튼(flatten) : 2차원을 1차원으로 축소
+- RNN(Recurrent Neural Network)
+  - 재귀 신경망
+  - 역전파(backpropagation)
+  - 순서(sequence) 기억 가능
+  - 비정형 데이터 처리에 좋음
+- LSTM(Long Short-Term Memory)
+  - RNN보다 기억력 강화
+- seq2seq(Sequence-to-Sequence)
+  - 문장 생성
+  - Encoder + Decoder
+- Attention
+  - 중요 요소 책정
+- Transformer
+  - RNN, LSTM은 순서가 있어서 병렬 처리가 어려움
+  - 순서가 아닌 관계로 회귀
+  - Encoder
+    - BERT : 이해 O, 생성 X, multilingual 버전 지원
+    - koBERT : 한국어 베이스 BERT, SKT에서 구축
+    - krBERT : 한국어 베이스 BERT, 서울대에서 구축
+  - Decoder
+    - GPT : 이해 X, 생성 O
+- Pre-training model의 필요성
+  - 아직 많이 공개돼 있음
+### 과제
+- [ ] BERT 돌려보고 업로드
+- [ ] 샘플 데이터 5줄 만들어서 제출
