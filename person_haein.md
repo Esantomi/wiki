@@ -7,7 +7,7 @@ tags:
 ---
 
 ## 개요
-<strong>지해인(池海印)</strong>은 대한민국의 디지털 인문학(digital humanities) 연구 입문자이자 [해인사](https://haein.info/)(海印舍) 장경판전(藏經板殿)의 소유주이다.
+<strong>지해인(池海印)</strong>은 대한민국의 디지털 인문학(digital humanities) 연구 입문자이자 본 위키 해인사 장경판전(海印舍 藏經板殿)의 운영자이다.
 
 ## 상세
 ### 생애
@@ -19,6 +19,8 @@ SMTP 프로토콜을 활용해 전자적으로 서신을 주고받으면서 데�
 
 ### 관심
 - 계량문학사회학(Quantitative Sociology of Literature)
+- 한국어 방언학(Korean Dialectology)
+- 한국어 역사언어학(Korean Historical Linguistics)
 
 ### 경력
 - 2019.03 ~ 2021.03 | 모 콘텐츠 회사 편집자/마케팅 담당자
