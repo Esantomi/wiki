@@ -9,9 +9,8 @@
 - 장경판전에 입장하기 위해서는 보안문(普眼門)을 거쳐야 하므로 랜딩 페이지 이름을 보안문으로 하였습니다.
 - 저에 대해 더 자세히 알고 싶으시다면, [제 홈페이지](https://haein.info)를 방문해 주세요.
 
-![image](https://user-images.githubusercontent.com/61646760/162568690-6e9aab55-bbce-4985-be86-e4f4c84f8e79.png)
-
 ## 구축 용도
+![image](https://user-images.githubusercontent.com/61646760/162568690-6e9aab55-bbce-4985-be86-e4f4c84f8e79.png)
 - 읽고 배운 걸 자꾸 까먹어서 신경망 말고 전산망에도 기록해 두려는 용도로 만들었습니다.
 - 한마디로, DHaein 전용의 기억 보조용 웹 기반 위키입니다.
 
