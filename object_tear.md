@@ -1,7 +1,7 @@
 ---
 title: 눈물
 tags:
-  - Theory
+  - Object
   - 문학
   - 감정이론
 ---
