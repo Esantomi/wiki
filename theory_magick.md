@@ -8,7 +8,9 @@ tags:
 ---
 
 ## 개요
-크로울리는 마법(magick)을 "의지에 따라 변화를 일으키는 과학이자 기예(the science and art of causing change to occur in conformity with will.)"라고 정의했다. 반면 포춘은 "의지에 따라 의식을 변화시키는 기예(the art of changing consciousness at will)"라고 정의했다.
+크로울리는 마법(magick)을 "의지에 따라 변화를 일으키는 과학이자 기예(the science and art of causing change to occur in conformity with will.)"라고 정의했다.
+
+반면 포춘은 "의지에 따라 의식을 변화시키는 기예(the art of changing consciousness at will)"라고 정의했다.
 
 ## References
 ### Wicca & Witchcraft
