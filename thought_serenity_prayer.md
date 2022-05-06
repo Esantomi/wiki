@@ -8,7 +8,7 @@ tags:
 ---
 
 ## 개요
-평온을 비는 기도(Serenity Prayer)는 신학자인 라인홀트 니버(Karl Paul Reinhold Niebuhr)가 쓴 기도문이다.
+**평온을 비는 기도(Serenity Prayer)**는 신학자인 라인홀트 니버(Karl Paul Reinhold Niebuhr)가 쓴 기도문이다.
 
 ## 전문
 > God, give us grace to accept with serenity the things that cannot be changed,

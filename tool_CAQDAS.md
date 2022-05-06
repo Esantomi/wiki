@@ -8,7 +8,7 @@ tags:
 ---
 
 ## 개요
-<strong>질적 분석 소프트웨어</strong>, 컴퓨터로 지원되는 질적 데이터 분석용 소프트웨어(CAQDAS, Computer-Asisted Qualitative Data Analysis Software)는 컴퓨터를 활용하여 질적 데이터를 분석하고자 하는 특수한 목적으로 제작된 S/W를 말한다.
+**컴퓨터로 지원되는 질적 데이터 분석용 소프트웨어(CAQDAS, Computer-Asisted Qualitative Data Analysis Software)**, 간단하게 **질적 분석 소프트웨어**는 컴퓨터를 활용하여 질적 데이터를 분석하고자 하는 특수한 목적으로 제작된 S/W를 말한다.
 
 ## 상세
 ### 목록
