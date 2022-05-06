@@ -9,7 +9,9 @@ tags:
 ---
 
 ## 개요
-<strong>아르네-톰슨 인덱스(AT Index, Aarne–Thompson Index)</strong>는 세계 각지에 전해지는 옛날 이야기를 그 유형마다 수집·분류한 것이다. 우터(Uther)가 개정한 것을 더해 <strong>아르네-톰슨-우터 인덱스(ATU Index)</strong>라고도 말한다.
+**아르네-톰슨 인덱스(AT Index, Aarne–Thompson Index)**는 세계 각지에 전해지는 옛날 이야기를 그 유형마다 수집·분류한 것이다.
+
+우터(Uther)가 개정한 것을 더해 **아르네-톰슨-우터 인덱스(ATU Index)**라고도 말한다.
 
 ## 상세
 핀란드의 민속학자 안티 아르네는 스승 카르레 클론의 권유에 의해서, 유럽 각지의 옛날 이야기 800개를 정리한 다음 크게 '동물 옛날 이야기' '본격 옛날 이야기' '만담·일화'의 세 개로 분류해, "Verzeichnis der Marchentypen" (Folklore Fellows Communications (FFC) 잡지, 제3권, 1910년)로서 발표했다.
