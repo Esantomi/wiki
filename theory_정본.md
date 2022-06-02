@@ -15,4 +15,4 @@ tags:
 
 ## References
 - [정본 - 두산백과](https://terms.naver.com/entry.naver?docId=1140465&cid=40942&categoryId=31768)
-- 표준국어대사전
+- [표준국어대사전](https://stdict.korean.go.kr/search/searchView.do?word_no=482182&searchKeywordTo=3)
