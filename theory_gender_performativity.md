@@ -1,5 +1,5 @@
 ---
-title: 젠더수행성
+title: 젠더 수행성
 tags:
   - Theory
   - 철학
