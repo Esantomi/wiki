@@ -1,5 +1,5 @@
 ---
-title: 저항발언
+title: 저항 발언
 tags:
   - Theory
   - 철학
