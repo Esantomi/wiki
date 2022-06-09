@@ -13,6 +13,6 @@ tags:
 **FOAF** (an acronym of **friend of a friend**) is a machine-readable ontology describing persons, their activities and their relations to other people and objects.
 
 ## References
-- [1] [FOAF - 인코덤, 생물정보 전문위키](http://www.incodom.kr/FOAF)
+- 1 [FOAF - 인코덤, 생물정보 전문위키](http://www.incodom.kr/FOAF)
 - [FOAF (ontology) - Wikipedia](https://en.wikipedia.org/wiki/FOAF_(ontology))
 - [FOAF Vocabulary Specification 0.99](http://xmlns.com/foaf/spec/)
