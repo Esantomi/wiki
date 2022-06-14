@@ -10,7 +10,7 @@ tags:
 **독자반응비평(Reader-Response Criticism)**은 스탠리 피쉬(Stanley Fish)와 볼프강 이저(Wolfgang Iser)가 주창한 것으로, 독자반응비평에 따르면 문학 텍스트 이해란, 이것을 읽고 소화시키는 “독자의 반응”에 의해서 이루어지고, 텍스트의 의미 내용은 이에 대한 독자의 반응들이 모인 집합체로서, 이를 근거로 작품 평가까지도 이루어지는 것을 의미한다.
 
 ## 상세
-- [수용미학](https://wiki.haein.info/theory_reception_theory/)과 비슷하나, 수용미학(Reception theory)은 작품을 읽고 이해하는 수용자의 미적 감수성을 중시하는 미학이므로 독자의 심적, 정신적 반응을 주관적으로 해석하는 독자반응이론(Reader-response theory)과 약간 다르다.
+[수용미학](https://wiki.haein.info/theory_reception_theory/)과 비슷하나, 수용미학(Reception theory)은 작품을 읽고 이해하는 수용자의 미적 감수성을 중시하는 미학이므로 독자의 심적, 정신적 반응을 주관적으로 해석하는 독자반응이론(Reader-response theory)과 약간 다르다.
 
 ### 각론
 - **상호거래적 독자반응이론** : 볼프강 이저(Wolfgang Iser)로 대표되는, 텍스트와 독자 사이의 거래를 분석하는 방법론
